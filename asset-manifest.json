@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navaantrix-task/static/css/main.f855e6bc.css",
+    "main.js": "/navaantrix-task/static/js/main.82210ee8.js",
+    "static/js/453.0098adef.chunk.js": "/navaantrix-task/static/js/453.0098adef.chunk.js",
+    "index.html": "/navaantrix-task/index.html",
+    "main.f855e6bc.css.map": "/navaantrix-task/static/css/main.f855e6bc.css.map",
+    "main.82210ee8.js.map": "/navaantrix-task/static/js/main.82210ee8.js.map",
+    "453.0098adef.chunk.js.map": "/navaantrix-task/static/js/453.0098adef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.82210ee8.js"
+  ]
+}
